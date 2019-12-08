@@ -4,6 +4,6 @@
 **information and communications technology group**
 
 ## Contact
-**ictg.git@gmail.com**
+**ictg@xmail.net**
 
 Copyright © 2019 ictg
