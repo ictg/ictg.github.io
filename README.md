@@ -11,6 +11,8 @@
 
 <strong><a href="https://www.facebook.com/ictg.git">facebook.com/ictg.git</a></strong>
 
+<strong><a href="https://minds.com/ictg">minds.com/ictg</a></strong>
+
 <strong><a href="https://github.com/ictg">github.com/ictg</a></strong>
 
 <strong><a href="https://wt.social/wt/ictg">wt.social/wt/ictg</a></strong>
