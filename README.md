@@ -4,6 +4,13 @@
 **information and communications technology group**
 
 ## Find
+
+<strong><a href="https://twitter.com/ictg_git">twitter.com/ictggit</a></strong>
+
+<strong><a href="https://www.instagram.com/ictg.git/">instagram.com/ictggit</a></strong>
+
+<strong><a href="https://www.facebook.com/ictg.git">facebook.com/ictg.git</a></strong>
+
 <strong><a href="https://ictg.github.io">ictg.github.io</a></strong>
 
 <strong><a href="https://github.com/ictg">github.com/ictg</a></strong>
