@@ -18,8 +18,6 @@
 <strong><a href="https://wt.social/wt/ictg">wt.social/wt/ictg</a></strong>
 
 ## Contact
-**https://github.com/ictg**
-
 **ictg@xmail.net**
 
 Copyright © 2019 ictg
