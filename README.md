@@ -14,6 +14,8 @@
 
 <strong><a href="https://twitter.com/ictg_git">twitter.com/ictggit</a></strong>
 
+<strong><a href="https://www.youtube.com/channel/UCKuXZEEBLOb7ZPamwVYj_6A">youtube.com/ictg</a></strong>
+
 <strong><a href="https://pinterest.com/ictggit">pinterest.com/ictggit</a></strong>
 
 <strong><a href="https://wt.social/wt/ictg">wt.social/wt/ictg</a></strong>
