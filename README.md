@@ -5,9 +5,9 @@
 
 ## Find
 
-<strong><a href="https://twitter.com/ictg_git">twitter.com/ictggit</a></strong>
+<strong><a href="https://twitter.com/ictg_git">twitter.com/ictg_git</a></strong>
 
-<strong><a href="https://www.instagram.com/ictg.git/">instagram.com/ictggit</a></strong>
+<strong><a href="https://www.instagram.com/ictg.git/">instagram.com/ictg.git</a></strong>
 
 <strong><a href="https://www.facebook.com/ictg.git">facebook.com/ictg.git</a></strong>
 
