@@ -10,7 +10,7 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Fipi8eayqNk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe width=”560″ height=”315″ src=” https://www.youtube.com/embed/Fipi8eayqNkI?&autoplay=1″ frameborder=”0″ allowfullscreen></iframe>
+<iframe width=”560″ height=”315″ src=” https://www.youtube.com/embed/Fipi8eayqNk?&autoplay=1″ frameborder=”0″ allowfullscreen></iframe>
 
 ## Find
 <strong><a href="https://minds.com/ictg" target="_blank">minds.com/ictg</a></strong>
