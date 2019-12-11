@@ -8,7 +8,7 @@
 
 **information and communications technology group**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/a0cw8pOJChw?autoplay=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lpadpbfrbWY?autoplay=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Find
 <strong><a href="https://minds.com/ictg" target="_blank">minds.com/ictg</a></strong>
