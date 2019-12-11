@@ -3,6 +3,11 @@
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
 <link rel="manifest" href="/site.webmanifest">
 
+    <iframe width=100% height=100% src="//www.youtube.com/embed/a0cw8pOJChw
+       ?autoplay=1&cc_load_policy=1&rel=0&showinfo=0"
+       frameborder="0" allowfullscreen>
+    </iframe>
+
 # ictg
 **ictg**
 
