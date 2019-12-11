@@ -1,14 +1,33 @@
+<head>
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
 <link rel="manifest" href="/site.webmanifest">
 
+.container {
+    position: relative;
+    width: 100%;
+    height: 0;
+    padding-bottom: 56.25%;
+}
+.video {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+</head>
+
+<div class="container">
+<iframe src="//www.youtube.com/embed/lpadpbfrbWY" 
+frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+
 # ictg
 **ictg**
 
 **information and communications technology group**
-
-<iframe width="330" src="https://www.youtube.com/embed/lpadpbfrbWY?autoplay=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Find
 <strong><a href="https://minds.com/ictg" target="_blank">minds.com/ictg</a></strong>
