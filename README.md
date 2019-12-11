@@ -20,16 +20,15 @@
 </style>
 </head>
 
-<div class="container">
-<iframe src="//www.youtube.com/embed/lpadpbfrbWY?autoplay=1" 
-frameborder="0" allowfullscreen class="video"></iframe>
-</div>
-
 # ictg
 **ictg**
 
 **information and communications technology group**
 
+<div class="container">
+<iframe src="//www.youtube.com/embed/lpadpbfrbWY?autoplay=1" 
+frameborder="0" allowfullscreen class="video"></iframe>
+</div>
 ## Find
 <strong><a href="https://minds.com/ictg" target="_blank">minds.com/ictg</a></strong>
 
