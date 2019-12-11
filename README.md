@@ -32,6 +32,8 @@ frameborder="0" allowfullscreen class="video"></iframe>
 ## Find
 <strong><a href="https://minds.com/ictg" target="_blank">minds.com/ictg</a></strong>
 
+<strong><a href="https://medium.com/@ictg" target="_blank">medium.com/@ictg</a></strong>
+
 <strong><a href="https://github.com/ictg" target="_blank">github.com/ictg</a></strong>
 
 <strong><a href="https://www.instagram.com/ictg.git/" target="_blank">instagram.com/ictg.git</a></strong>
