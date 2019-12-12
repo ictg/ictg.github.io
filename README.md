@@ -25,9 +25,6 @@ frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 ## ictg
 **information and communications technology group**
-
-<iframe width="560" height="315" sandbox="allow-same-origin allow-scripts" src="https://peertube.live/videos/embed/1adfc1ba-14e9-4e39-9d9c-08d5d4946666" frameborder="0" allowfullscreen></iframe>
-
 ## Find
 <strong><a href="https://minds.com/ictg" target="_blank">minds.com/ictg</a></strong>
 
