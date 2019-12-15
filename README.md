@@ -20,9 +20,9 @@
 </style>
 </head>
 <div class="container">
-<iframe src="https://www.youtube.com/embed/Qs9I-D9l-Wk?&autoplay=1" 
-frameborder="0" allowfullscreen class="video"></iframe>
+<iframe src="https://www.youtube.com/embed/Qs9I-D9l-Wk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
 ## **ictg**
 **information and communications technology group**
 ## Find
