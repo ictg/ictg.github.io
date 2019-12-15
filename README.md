@@ -20,7 +20,7 @@
 </style>
 </head>
 <div class="container">
-<iframe src="https://www.youtube.com/embed/Qs9I-D9l-Wk?&autoplay=1" 
+<iframe src="https://www.youtube.com/embed/Qs9I-D9l-Wk?autoplay=1" 
 frameborder="0" allowfullscreen class="video"></iframe>
 </div>
 ## **ictg**
