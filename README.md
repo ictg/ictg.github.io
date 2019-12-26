@@ -19,14 +19,10 @@
 }
 </style>
 </head>
-<div class="container">
-<iframe src="https://www.youtube.com/embed/Qs9I-D9l-Wk?autoplay=1" 
-frameborder="0" allowfullscreen class="video"></iframe>
-</div>
 ## **ictg**
 **information and communications technology group**
 
-<img style="width:100%;" id="image" src="https://ictg.github.io/unite.png">
+<img style="width:100%;" id="image" src="https://ictg.github.io/ictg-cower.png">
 
 ## Find
 <strong><a href="https://minds.com/ictg" target="_blank">minds.com/ictg</a></strong>
