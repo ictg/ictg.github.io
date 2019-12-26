@@ -5,6 +5,7 @@
 <link rel="manifest" href="/site.webmanifest">
 
 </head>
+<div style="background-image: url('ictg-background.jpg');">
 ## **ictg**
 **information and communications technology group**
 
