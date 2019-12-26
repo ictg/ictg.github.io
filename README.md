@@ -9,10 +9,11 @@
 **information and communications technology group**
 
 <div class="w3-content w3-display-container">
-  <img class="mySlides" src="https://www.w3schools.com/w3css/img_fjords.jpg" style="width:100%">
-  <img class="mySlides" src="https://www.w3schools.com/w3css/img_lights.jpg" style="width:100%">
-  <img class="mySlides" src="https://www.w3schools.com/w3css/img_mountains.jpg" style="width:100%">
-  <img class="mySlides" src="https://www.w3schools.com/w3css/img_forest.jpg" style="width:100%">
+  <img class="mySlides" src="https://ictg.github.io//ictg-1.png" style="width:100%">
+  <img class="mySlides" src="https://ictg.github.io//ictg-2.png" style="width:100%">
+  <img class="mySlides" src="https://ictg.github.io//ictg-3.png" style="width:100%">
+  <img class="mySlides" src="https://ictg.github.io//ictg-4.png" style="width:100%">
+  <img class="mySlides" src="https://ictg.github.io//ictg-5.png" style="width:100%">
 </div>
 
  <script>
@@ -28,11 +29,9 @@ function carousel() {
     slideIndex++;
     if (slideIndex > x.length) {slideIndex = 1}
     x[slideIndex-1].style.display = "block";
-    setTimeout(carousel, 3000); // Change image every 3 seconds
+    setTimeout(carousel, 1000); // Change image every 1 seconds
 }
  </script>
-
-<img style="width:100%;" id="image" src="https://ictg.github.io/ictg-cower.svg">
 
 ## Find
 <strong><a href="https://minds.com/ictg" target="_blank">minds.com/ictg</a></strong>
