@@ -29,6 +29,7 @@
 <strong><a href="https://wt.social/wt/ictg" target="_blank">wt.social/wt/ictg</a></strong>
 
 ## Contact
-**ictg@xmail.net**
+**Call: 0031 841 533 47**
 
+**Email: ictg@xmail.net**
 Copyright © 2019 ictg
