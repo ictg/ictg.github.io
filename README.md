@@ -32,6 +32,9 @@ function carousel() {
 ## **ictg**
 **information and communications technology group**
 
+A project of ictg
+<p><strong><font size="5"><a href="https://vvv.wpdevcloud.com/" target="_blank">vvv.wpdevcloud.com/</a></font></strong>
+
 ## Find
 <strong><a href="https://minds.com/ictg" target="_blank">minds.com/ictg</a></strong>
 
