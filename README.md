@@ -55,6 +55,6 @@ function carousel() {
 ## Contact
 **Tab to Call: <a href="tel:+3184153347">+0031 841 533 47</a>**
 
-**Mail: ictg.git@gmail.com**
+**Tab to Mail: <a href="mailto:ictg.git@gmail.com" target="_blank">ictg.git@gmail.com</a>**
 
 Copyright © 2019 ictg
