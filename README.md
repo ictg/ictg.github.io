@@ -53,7 +53,7 @@ function carousel() {
 <strong><a href="https://wt.social/wt/ictg" target="_blank">wt.social/wt/ictg</a></strong>
 
 ## Contact
-**Call: 0031 841 533 47**
+**Tab to Call: <a href="tel:+3184153347">+0031 841 533 47</a>**
 
 **Mail: ictg.git@gmail.com**
 
