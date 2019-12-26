@@ -7,7 +7,7 @@
 ## **ictg**
 **information and communications technology group**
 
-<img style="width:100%;" id="image" src="https://ictg.github.io/ictg-cower.png">
+<img style="width:100%;" id="image" src="https://ictg.github.io/ictg-cower.svg">
 
 ## Find
 <strong><a href="https://minds.com/ictg" target="_blank">minds.com/ictg</a></strong>
