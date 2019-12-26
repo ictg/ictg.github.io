@@ -32,10 +32,11 @@ function carousel() {
 ## **ictg**
 **information and communications technology group**
 
-A project of ictg
-<p><strong><font size="5"><a href="https://vvv.wpdevcloud.com/" target="_blank">vvv.wpdevcloud.com/</a></font></strong>
+## **project**
 
-## Find
+<strong><a href="https://vvv.wpdevcloud.com/" target="_blank">https://vvv.wpdevcloud.com/</a></strong>
+
+## **Find**
 <strong><a href="https://minds.com/ictg" target="_blank">minds.com/ictg</a></strong>
 
 <strong><a href="https://medium.com/@ictg" target="_blank">medium.com/@ictg</a></strong>
@@ -54,7 +55,7 @@ A project of ictg
 
 <strong><a href="https://wt.social/wt/ictg" target="_blank">wt.social/wt/ictg</a></strong>
 
-## Contact
+## **Contact**
 **Tab to Call: <a href="tel:+3184153347">+0031 841 533 47</a>**
 
 **Tab to Mail: <a href="mailto:ictg.git@gmail.com" target="_blank">ictg.git@gmail.com</a>**
