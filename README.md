@@ -55,6 +55,6 @@ function carousel() {
 ## Contact
 **Call: 0031 841 533 47**
 
-**Mail: ictg@xmail.net**
+**Mail: ictg.git@gmail.com**
 
 Copyright © 2019 ictg
