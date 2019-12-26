@@ -3,10 +3,6 @@
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
 <link rel="manifest" href="/site.webmanifest">
-  
-<title>W3.CSS</title>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 
 </head>
 ## **ictg**
@@ -17,9 +13,6 @@
   <img class="mySlides" src="https://www.w3schools.com/w3css/img_lights.jpg" style="width:100%">
   <img class="mySlides" src="https://www.w3schools.com/w3css/img_mountains.jpg" style="width:100%">
   <img class="mySlides" src="https://www.w3schools.com/w3css/img_forest.jpg" style="width:100%">
-
-  <button class="w3-button w3-black w3-display-left" onclick="plusDivs(-1)">&#10094;</button>
-  <button class="w3-button w3-black w3-display-right" onclick="plusDivs(1)">&#10095;</button>
 </div>
 
  <script>
