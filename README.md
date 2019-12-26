@@ -5,7 +5,6 @@
 <link rel="manifest" href="/site.webmanifest">
 
 </head>
-<style="background-color:powderblue;">
 ## **ictg**
 **information and communications technology group**
 
