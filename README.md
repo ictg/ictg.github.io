@@ -10,10 +10,10 @@
 
 <div class="w3-content w3-display-container">
   <img class="mySlides" src="https://ictg.github.io//ictg-1.png" style="width:100%">
-  <img class="mySlides" src="https://ictg.github.io//ictg-2.png" style="width:100%">
-  <img class="mySlides" src="https://ictg.github.io//ictg-3.png" style="width:100%">
-  <img class="mySlides" src="https://ictg.github.io//ictg-4.png" style="width:100%">
-  <img class="mySlides" src="https://ictg.github.io//ictg-5.png" style="width:100%">
+  <img class="mySlides" src="https://ictg.github.io//ictg-2.svg" style="width:100%">
+  <img class="mySlides" src="https://ictg.github.io//ictg-3.svg" style="width:100%">
+  <img class="mySlides" src="https://ictg.github.io//ictg-4.svg" style="width:100%">
+  <img class="mySlides" src="https://ictg.github.io//ictg-5.svg" style="width:100%">
 </div>
 
  <script>
