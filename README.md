@@ -36,6 +36,8 @@ function carousel() {
 
 <strong><a href="https://vvv.wpdevcloud.com/" target="_blank">vvv.wpdevcloud.com</a></strong>
 
+<img src="ictg.github.io/vvv.wpdev-small.png" alt="Trulli" width="400">
+
 ## **Why we use a GitHubPage?**
 **Just to ment one reason:** <strong><a href="https://developers.google.com/speed/pagespeed/insights/?hl=de&url=https%3A%2F%2Fictg.github.io%2F&tab=desktop" target="_blank">Page-Speed</a></strong>
 
