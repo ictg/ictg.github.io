@@ -34,7 +34,7 @@ function carousel() {
 
 ## **Project**
 
-<strong><a href="https://vvv.wpdevcloud.com/" target="_blank">vvv.wpdevcloud.com</a></strong> | WordPress Developer
+<strong><a href="https://vvv.wpdevcloud.com/" target="_blank">vvv.wpdevcloud.com</a></strong> WordPress Developer
 
 <img src="https://ictg.github.io/vvv.wpdev-small.png" width="300">
 
