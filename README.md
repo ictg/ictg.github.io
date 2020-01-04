@@ -32,6 +32,13 @@ function carousel() {
 ## **ictg**
 **information and communications technology group**
 
+<dt>Who is WordLift for?</dt>
+<dd>
+<p><strong>WordLift</strong> is for all <em>bloggers</em>, <em>journalists</em>, and <em>content marketers</em> publishing and fighting for readers’ attention on the web. <br />
+<strong>WordLift</strong> democratizes the field, bringing to the hands of all web content creators the technology that web publisher giants such as <em>Google</em>, <em>Facebook</em> and the <em>BBC</em> are using to organize and monetize their content. <br />
+<strong>WordLift</strong> helps you create richer and more engaging content, optimizes it for all search engines and efficiently organizes your content creation process, allowing you to reach and speak directly to your tribe. </p>
+</dd>
+
 ## **Project**
 
 <strong><a href="https://vvv.wpdevcloud.com/" target="_blank">vvv.wpdevcloud.com</a></strong> WordPress Developer
