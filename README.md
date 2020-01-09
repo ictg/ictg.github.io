@@ -34,7 +34,7 @@ function carousel() {
 
 ## **Project**
 
-<strong><a href="http://vvv.giize.com" target="_blank">vvv.giize.com</a></strong> E=mc²
+<strong><a href="http://vvv.giize.com" target="_blank">VVV.GIIZE.COM</a></strong>
 
 <a href="http://vvv.giize.com" target="_blank"><img src="https://ictg.github.io/vvv.giize-screenshot.png" style="width:100%"></a>
 
