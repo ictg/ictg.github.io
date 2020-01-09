@@ -36,7 +36,7 @@ function carousel() {
 
 <strong><a href="https://vvv.giize.com" target="_blank">vvv.giize.com</a></strong> E=mc²
 
-<a href="https://vvv.giize.com" target="_blank"><img src="https://ictg.github.io/vvv.giize.png" style=width:100%"></a>
+<a href="https://vvv.giize.com" target="_blank"><img src="https://ictg.github.io/vvv.giize.png" style="width:100%"></a>
 
 ## **Why we use a GitHubPage?**
 **Just to ment one reason:** <strong><a href="https://developers.google.com/speed/pagespeed/insights/?hl=de&url=https%3A%2F%2Fictg.github.io%2F&tab=desktop" target="_blank">Page-Speed</a></strong>
