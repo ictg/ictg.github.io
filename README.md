@@ -5,6 +5,10 @@
 <link rel="manifest" href="/site.webmanifest">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
+
+## **ictg**
+**information and communications technology group**
+
 <div class="w3-content w3-display-container">
   <img class="mySlides" src="https://ictg.github.io//ictg-1.svg" style="width:100%">
   <img class="mySlides" src="https://ictg.github.io//ictg-2.svg" style="width:100%">
@@ -29,8 +33,6 @@ function carousel() {
     setTimeout(carousel, 1500); // Change image every 1.5 seconds
 }
  </script>
-## **ictg**
-**information and communications technology group**
 
 ## **Project**
 
