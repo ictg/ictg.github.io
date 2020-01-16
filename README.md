@@ -33,7 +33,11 @@ function carousel() {
     setTimeout(carousel, 1500); // Change image every 1.5 seconds
 }
  </script>
+ 
+## **OpenSource**
 
+**ictg is OpenSource**
+ 
 ## **Project**
 
 <strong><a href="http://vvv.giize.com" target="_blank">VVV.GIIZE.COM</a></strong>
