@@ -54,8 +54,6 @@ function carousel() {
 
 <strong><a href="https://www.instagram.com/ictg.git/" target="_blank">instagram.com/ictg.git</a></strong>
 
-<strong><a href="https://www.facebook.com/ictg.git" target="_blank">facebook.com/ictg.git</a></strong>
-
 <strong><a href="https://twitter.com/ictg_git" target="_blank">twitter.com/ictggit</a></strong>
 
 <strong><a href="https://www.youtube.com/channel/UCKuXZEEBLOb7ZPamwVYj_6A" target="_blank">youtube.com/ictg</a></strong>
