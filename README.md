@@ -34,7 +34,7 @@ function carousel() {
 }
  </script>
  
-## **Project**
+## **Founder**
 
 <strong><a href="http://vvv.giize.com" target="_blank">VVV.GIIZE.COM</a></strong>
  
