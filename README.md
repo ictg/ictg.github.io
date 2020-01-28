@@ -27,7 +27,7 @@
 
 **To WhatsApp: <a href="https://wa.me/31684153347?text=VVV.GIIZE.COM" target="_blank">+316 841 533 47</a>**
 
-**Or Mail: <a href="mailto:ictg.git@gmail.com" target="_blank">ictg.git@gmail.com</a>**
+**Or to Mail: <a href="mailto:ictg.git@gmail.com" target="_blank">ictg.git@gmail.com</a>**
 
 ## **Find**
 <strong><a href="https://minds.com/ictg" target="_blank">minds.com/ictg</a></strong>
