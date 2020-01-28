@@ -20,11 +20,6 @@
 
 **Or Mail: <a href="mailto:ictg.git@gmail.com" target="_blank">ictg.git@gmail.com</a>**
 
-<audio controls autoplay>
-  <source src="Public-Enemy.mp3" type="audio/mpeg">
-Your browser does not support the audio element.
-</audio>
-
 ## **Domains**
 
 **<a href="http://vvv.giize.com" target="_blank">VVV.GIIZE.COM</a> & <a href="http://ictg.github.io" target="_blank">ICTG.GITHUB.IO</a>**
