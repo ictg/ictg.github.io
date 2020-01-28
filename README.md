@@ -6,11 +6,6 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 
-<audio controls autoplay>
-  <source src="Public-Enemy.mp3" type="audio/mpeg">
-Your browser does not support the audio element.
-</audio>
-
 ## **ictg**
 **information and communications technology group**
 
@@ -24,6 +19,11 @@ Your browser does not support the audio element.
 **WhatsApp: <a href="https://wa.me/31684153347?text=VVV.GIIZE.COM" target="_blank">+316 841 533 47</a>**
 
 **Or Mail: <a href="mailto:ictg.git@gmail.com" target="_blank">ictg.git@gmail.com</a>**
+
+<audio controls autoplay>
+  <source src="Public-Enemy.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
 
 ## **Domains**
 
