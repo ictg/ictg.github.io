@@ -25,7 +25,7 @@
 **<a href="http://vvv.giize.com" target="_blank">VVV.GIIZE.COM</a> & <a href="http://ictg.github.io" target="_blank">ICTG.GITHUB.IO</a>**
 
 ## **Why we use a GitHub Page?**
-**Just to ment one reason:** <strong><a href="https://developers.google.com/speed/pagespeed/insights/?hl=de&url=https%3A%2F%2Fictg.github.io%2F&tab=desktop" target="_blank">Page-Speed</a></strong>
+**Just to ment one reason:** <strong><a href="https://developers.google.com/speed/pagespeed/insights/?hl=de&url=https%3A%2F%2Fictg.github.io%2F&tab=desktop" target="_blank">PageSpeed</a></strong>
 
 ## **Find**
 <strong><a href="https://minds.com/ictg" target="_blank">minds.com/ictg</a></strong>
