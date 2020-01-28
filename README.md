@@ -16,6 +16,15 @@
 ## **Why we use a GitHubPage?**
 **Just to ment one reason:** <strong><a href="https://developers.google.com/speed/pagespeed/insights/?hl=de&url=https%3A%2F%2Fictg.github.io%2F&tab=desktop" target="_blank">Page-Speed</a></strong>
 
+## **Contact**
+<img src="https://ictg.github.io//ictg-i.jpg" >
+
+**Kai Adam / CEO @ ictg**
+
+**Tab to Call: <a href="tel:+31684153347">+316 841 533 47</a>**
+
+**Tab to Mail: <a href="mailto:ictg.git@gmail.com" target="_blank">ictg.git@gmail.com</a>**
+
 ## **Find**
 <strong><a href="https://minds.com/ictg" target="_blank">minds.com/ictg</a></strong>
 
@@ -32,14 +41,5 @@
 <strong><a href="https://pinterest.com/ictggit" target="_blank">pinterest.com/ictggit</a></strong>
 
 <strong><a href="https://wt.social/wt/ictg" target="_blank">wt.social/wt/ictg</a></strong>
-
-## **Contact**
-<img src="https://ictg.github.io//ictg-i.jpg" >
-
-**Kai Adam / CEO @ ictg**
-
-**Tab to Call: <a href="tel:+31684153347">+316 841 533 47</a>**
-
-**Tab to Mail: <a href="mailto:ictg.git@gmail.com" target="_blank">ictg.git@gmail.com</a>**
 
 Copyright © 2019 ictg
