@@ -15,7 +15,7 @@
 
 <strong><a href="http://ictg.github.io" target="_blank">ICTG.GITHUB.IO</a></strong>
 
-## **Why we use a GitHubPage?**
+## **Why we use a GitHub Page?**
 **Just to ment one reason:** <strong><a href="https://developers.google.com/speed/pagespeed/insights/?hl=de&url=https%3A%2F%2Fictg.github.io%2F&tab=desktop" target="_blank">Page-Speed</a></strong>
 
 ## **Contact**
