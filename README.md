@@ -8,31 +8,6 @@
 
 ## **ictg**
 **information and communications technology group**
-
-<div class="w3-content w3-display-container">
-  <img class="mySlides" src="https://ictg.github.io//ictg-1.svg" style="width:100%">
-  <img class="mySlides" src="https://ictg.github.io//ictg-2.svg" style="width:100%">
-  <img class="mySlides" src="https://ictg.github.io//ictg-3.svg" style="width:100%">
-  <img class="mySlides" src="https://ictg.github.io//ictg-4.svg" style="width:100%">
-  <img class="mySlides" src="https://ictg.github.io//ictg-5.svg" style="width:100%">
-</div>
-
- <script>
- var slideIndex = 0;
-carousel();
-
-function carousel() {
-    var i;
-    var x = document.getElementsByClassName("mySlides");
-    for (i = 0; i < x.length; i++) {
-      x[i].style.display = "none";
-    }
-    slideIndex++;
-    if (slideIndex > x.length) {slideIndex = 1}
-    x[slideIndex-1].style.display = "block";
-    setTimeout(carousel, 1500); // Change image every 1.5 seconds
-}
- </script>
  
 ## **URL**
 
