@@ -21,7 +21,7 @@
 ## **Contact**
 <img src="https://ictg.github.io/ictg-i.jpg" >
 
-**Eric Lee CEO & Researcher @ ictg**
+**Eric Lee ictg DEVELOPER RELATIONS**
 
 **Tab to Call: <a href="tel:+31684153347">+316 841 533 47</a>**
 
