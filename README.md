@@ -9,15 +9,18 @@
 ## **ictg**
 **information and communications technology group**
  
-## **URL**
+## **URLs**
+**You can reach Homepage with this URLs:**
 
 <strong><a href="http://vvv.giize.com" target="_blank">VVV.GIIZE.COM</a></strong>
+
+<strong><a href="http://ictg.github.io" target="_blank">ICTG.GITHUB.IO</a></strong>
 
 ## **Why we use a GitHubPage?**
 **Just to ment one reason:** <strong><a href="https://developers.google.com/speed/pagespeed/insights/?hl=de&url=https%3A%2F%2Fictg.github.io%2F&tab=desktop" target="_blank">Page-Speed</a></strong>
 
 ## **Contact**
-<img src="https://ictg.github.io//ictg-i.jpg" >
+<img src="https://ictg.github.io/ictg-i.jpg" >
 
 **Kai Adam / CEO @ ictg**
 
