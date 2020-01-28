@@ -63,9 +63,9 @@ function carousel() {
 <strong><a href="https://wt.social/wt/ictg" target="_blank">wt.social/wt/ictg</a></strong>
 
 ## **Contact**
-<img src="https://ictg.github.io//ictg-i.jpg" >
-
 **Kai Adam - CEO**
+
+<img src="https://ictg.github.io//ictg-i.jpg" >
 
 **Tab to Call: <a href="tel:+31684153347">+316 841 533 47</a>**
 
