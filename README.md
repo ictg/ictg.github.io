@@ -63,6 +63,8 @@ function carousel() {
 <strong><a href="https://wt.social/wt/ictg" target="_blank">wt.social/wt/ictg</a></strong>
 
 ## **Contact**
+<img src="https://ictg.github.io//ictg-i.jpg" >
+
 **Tab to Call: <a href="tel:+31684153347">+316 841 533 47</a>**
 
 **Tab to Mail: <a href="mailto:ictg.git@gmail.com" target="_blank">ictg.git@gmail.com</a>**
