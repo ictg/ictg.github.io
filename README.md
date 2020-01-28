@@ -9,8 +9,8 @@
 ## **ictg**
 **information and communications technology group**
  
-## **URLs**
-**You can reach Homepage with this URLs:**
+## **Domains**
+**You can reach Wesite with this Domains:**
 
 <strong><a href="http://vvv.giize.com" target="_blank">VVV.GIIZE.COM</a></strong>
 
