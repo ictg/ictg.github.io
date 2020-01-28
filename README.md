@@ -10,7 +10,6 @@
 **information and communications technology group**
  
 ## **Domains**
-**You can reach Wesite with this Domains:**
 
 <strong><a href="http://vvv.giize.com" target="_blank">VVV.GIIZE.COM</a></strong>
 
