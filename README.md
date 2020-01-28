@@ -8,13 +8,6 @@
 
 ## **ictg**
 **information and communications technology group**
- 
-## **Domains**
-
-**<a href="http://vvv.giize.com" target="_blank">VVV.GIIZE.COM</a> & <a href="http://ictg.github.io" target="_blank">ICTG.GITHUB.IO</a>**
-
-## **Why we use a GitHub Page?**
-**Just to ment one reason:** <strong><a href="https://developers.google.com/speed/pagespeed/insights/?hl=de&url=https%3A%2F%2Fictg.github.io%2F&tab=desktop" target="_blank">Page-Speed</a></strong>
 
 ## **Contact**
 <img src="https://ictg.github.io/ictg-i.jpg" >
@@ -26,6 +19,13 @@
 **WhatsApp: <a href="https://wa.me/31684153347?text=VVV.GIIZE.COM" target="_blank">+316 841 533 47</a>**
 
 **Or Mail: <a href="mailto:ictg.git@gmail.com" target="_blank">ictg.git@gmail.com</a>**
+
+## **Domains**
+
+**<a href="http://vvv.giize.com" target="_blank">VVV.GIIZE.COM</a> & <a href="http://ictg.github.io" target="_blank">ICTG.GITHUB.IO</a>**
+
+## **Why we use a GitHub Page?**
+**Just to ment one reason:** <strong><a href="https://developers.google.com/speed/pagespeed/insights/?hl=de&url=https%3A%2F%2Fictg.github.io%2F&tab=desktop" target="_blank">Page-Speed</a></strong>
 
 ## **Find**
 <strong><a href="https://minds.com/ictg" target="_blank">minds.com/ictg</a></strong>
