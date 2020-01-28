@@ -63,7 +63,7 @@ function carousel() {
 <strong><a href="https://wt.social/wt/ictg" target="_blank">wt.social/wt/ictg</a></strong>
 
 ## **Contact**
-**Kai Adam - CEO**
+**Kai Adam - CEO @ ictg**
 
 <img src="https://ictg.github.io//ictg-i.jpg" >
 
