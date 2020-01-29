@@ -4,9 +4,6 @@
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
 <link rel="manifest" href="/site.webmanifest">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-</head>
-
-<meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 .collapsible {
   background-color: #777;
@@ -31,7 +28,7 @@
   background-color: #f1f1f1;
 }
 </style>
-
+</head>
 ## **ictg**
 **information and communications technology group**
 
