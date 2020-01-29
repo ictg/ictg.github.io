@@ -15,7 +15,7 @@ img {
 ## Contact
 <img src="https://ictg.github.io/ictg-i.jpg" alt="Avatar">
 
-**Eric Lee - CEO @ vvv.giize.com & ictg**
+**Kai Adam - CEO @ vvv.giize.com & ictg**
 
 **Tab to Call: <a href="tel:+31684153347">+316 841 533 47</a>**
 
@@ -24,11 +24,11 @@ img {
 **Or Mail: <a href="mailto:vvv.giize@gmail.com" target="_blank">vvv.giize@gmail.com</a>**
 
 ## Music
-**stunned but not defeated**
+**Pulic Eneemy: stunned but not defeated**
 	
 <audio src="/Public-Enemy.mp3" controls ></audio>
 
-**present of passed future**
+**Kai Adam: present of passed future**
 	
 <audio controls src="/future2.mp3" ></audio>
 
