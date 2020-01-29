@@ -14,7 +14,7 @@ img {
 # <a href="http://vvv.giize.com" >vvv.giize.com</a>
 <img src="https://ictg.github.io/ictg-i.jpg" alt="Avatar">
 
-**Kai Adam - CEO vvv.giize.com, asap & ictg**
+**Kai Adam - CEO @ vvv.giize.com, asap & ictg**
 
 ## Contact
 **Tab to Call <a href="tel:+31684153347">+316 841 533 47</a>**
