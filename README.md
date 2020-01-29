@@ -12,10 +12,9 @@ img {
 </style>
 </head>
 # <a href="http://vvv.giize.com" >vvv.giize.com</a>
-**as simple as possible**
-
 <img src="https://ictg.github.io/ictg-i.jpg" alt="Avatar">
-**Kai Adam - CEO @ vvv.giize.com & ictg**
+
+**Kai Adam - CEO vvv.giize.com, asap & ictg**
 
 ## Contact
 **Tab to Call <a href="tel:+31684153347">+316 841 533 47</a>**
@@ -34,6 +33,9 @@ img {
 <audio controls src="/future2.mp3" ></audio>
 
 Downloads For Free !!!!
+
+## asap
+**as simple as possible**
 
 ## Why we use GitHub
 **Just to ment one reason - <a href="https://developers.google.com/speed/pagespeed/insights/?hl=de&url=https%3A%2F%2Fictg.github.io%2F&tab=desktop" target="_blank">PageSpeed</a>!**
