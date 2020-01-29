@@ -29,10 +29,10 @@ img {
 
 Download is For Free !!!!
 ## Google Developer
-**Google <a href="https://developers.google.com/speed/pagespeed/insights/?hl=de&url=https%3A%2F%2Fictg.github.io%2F&tab=desktop" target="_blank">PageSpeed Insights</a>**
+**Very Fast <a href="https://developers.google.com/speed/pagespeed/insights/?hl=de&url=https%3A%2F%2Fictg.github.io%2F&tab=desktop" target="_blank">PageSpeed Insights</a>**
 
 ## WordPress Developer
-**WordPress <a href="https://vvv.wpdevcloud.com" target="_blank">vvv.wpdevcloud.com</a>**
+**Open Source <a href="https://vvv.wpdevcloud.com" target="_blank">vvv.wpdevcloud.com</a>**
 
 ## W3C
 **Member of The World Wide Web Consortium**
