@@ -27,11 +27,7 @@ img {
 	
 <audio src="/Public-Enemy.mp3" controls ></audio>
 
-**Kai Adam - present of passed future**
-	
-<audio controls src="/future2.mp3" ></audio>
-
-Downloads For Free !!!!
+Download is For Free !!!!
 
 ## Page Speed
 **Google Developers**
