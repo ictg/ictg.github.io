@@ -29,10 +29,11 @@ img {
 
 Download is For Free !!!!
 
-## Page Speed
-**Google Developers**
+## W3C
+**Member of W3C - The World Wide Web Consortium**
 
-**<a href="https://developers.google.com/speed/pagespeed/insights/?hl=de&url=https%3A%2F%2Fictg.github.io%2F&tab=desktop" target="_blank">PageSpeed Insights
+## Google Developer
+**Our <a href="https://developers.google.com/speed/pagespeed/insights/?hl=de&url=https%3A%2F%2Fictg.github.io%2F&tab=desktop" target="_blank">PageSpeed Insights
 </a>**
 
 ## Usability
