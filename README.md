@@ -38,10 +38,9 @@ Downloads For Free !!!!
 
 **An Albert Einstein inspiration**
 
-## Why we use GitHub
-**Just to ment one reason <a href="https://developers.google.com/speed/pagespeed/insights/?hl=de&url=https%3A%2F%2Fictg.github.io%2F&tab=desktop" target="_blank">PageSpeed</a>**
-
-**ictg @ GitHub <a href="https://github.com/ictg" target="_blank">github.com/ictg</a>**
+## Page Speed
+**<a href="https://developers.google.com/speed/pagespeed/insights/?hl=de&url=https%3A%2F%2Fictg.github.io%2F&tab=desktop" target="_blank">Google PageSpeed Insights
+</a>**
 
 ## ictg
 
