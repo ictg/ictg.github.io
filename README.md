@@ -1,5 +1,4 @@
 <head>
-<TITLE>vvv.giize.com</TITLE>
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
@@ -42,10 +41,10 @@ Downloads For Free !!!!
 ## Why we use GitHub
 **Just to ment one reason - <a href="https://developers.google.com/speed/pagespeed/insights/?hl=de&url=https%3A%2F%2Fictg.github.io%2F&tab=desktop" target="_blank">PageSpeed</a>!**
 
+**Our respository @ GitHub - <a href="https://github.com/ictg" target="_blank">github.com/ictg</a>**
+
 ## ictg
 
 **information and communications technology group**
-
-**<a href="https://github.com/ictg" target="_blank">github.com/ictg</a>**
 
 Copyright © 2019-2020 vvv.giize.com
