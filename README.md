@@ -14,7 +14,7 @@ img {
 # <a href="http://vvv.giize.com" >vvv.giize.com</a>
 <img src="https://ictg.github.io/ictg-i.jpg" alt="Avatar">
 
-**Eric Lee - CEO @ ictg & vvv.giize.com**
+**Eric Lee - CEO & Founder - ictg & vvv.giize.com**
 
 ## Contact
 **Tab to Call: <a href="tel:+31684153347">+316 841 533 47</a>**
