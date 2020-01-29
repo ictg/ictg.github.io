@@ -24,11 +24,11 @@ img {
 **Or Mail: <a href="mailto:vvv.giize@gmail.com" target="_blank">vvv.giize@gmail.com</a>**
 
 ## Music
-**Pulic Eneemy: stunned but not defeated**
+**Pulic Enemy: "stunned but not defeated"**
 	
 <audio src="/Public-Enemy.mp3" controls ></audio>
 
-**Kai Adam: present of passed future**
+**Kai Adam: "present of passed future"**
 	
 <audio controls src="/future2.mp3" ></audio>
 
