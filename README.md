@@ -20,12 +20,13 @@
 **Or Mail: <a href="mailto:ictg.git@gmail.com" target="_blank">ictg.git@gmail.com</a>**
 
 ## Music
-**<p><b>Welcome to ictg:</b>**
-	<audio src="/Public-Enemy.mp3" controls ></audio>
-</p>
-**<p><b>Future 2:</b>**
-	<audio controls src="/future2.mp3" ></audio>
-</p>
+**Welcome to ictg:**
+	
+<audio src="/Public-Enemy.mp3" controls ></audio>
+
+**Future 2:**
+	
+<audio controls src="/future2.mp3" ></audio>
 
 ## **Domains**
 
