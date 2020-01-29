@@ -10,7 +10,7 @@
 ## **Contact**
 <img src="https://ictg.github.io/ictg-i.jpg" >
 
-**Eric Lee - CEO @ vvv.giize.com**
+**Eric Lee - CEO @ ictg & vvv.giize.com**
 
 **Tab to Call: <a href="tel:+31684153347">+316 841 533 47</a>**
 
