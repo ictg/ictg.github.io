@@ -20,11 +20,11 @@
 **Or Mail: <a href="mailto:ictg.git@gmail.com" target="_blank">ictg.git@gmail.com</a>**
 
 ## Music
-**Welcome to ictg:**
+**stunned but not defeated**
 	
 <audio src="/Public-Enemy.mp3" controls ></audio>
 
-**Future 2:**
+**present of passed future:**
 	
 <audio controls src="/future2.mp3" ></audio>
 
