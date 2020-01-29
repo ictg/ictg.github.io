@@ -9,7 +9,7 @@
 </head>
 # <a href="http://vvv.giize.com" >vvv.giize.com</a>
 
-## **ictg & vvv.giize.com are One**
+## **ictg & vvv.giize.com**
 <img src="https://ictg.github.io/ictg-i.jpg" >
 
 **Eric Lee - CEO @ ictg & vvv.giize.com**
