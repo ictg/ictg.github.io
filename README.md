@@ -17,18 +17,18 @@ img {
 
 **Kai Adam - CEO @ vvv.giize.com & ictg**
 
-**Tab to Call: <a href="tel:+31684153347">+316 841 533 47</a>**
+**Tab to Call <a href="tel:+31684153347">+316 841 533 47</a>**
 
-**WhatsApp: <a href="https://wa.me/31684153347?text=VVV.GIIZE.COM" target="_blank">+316 841 533 47</a>**
+**WhatsApp <a href="https://wa.me/31684153347?text=VVV.GIIZE.COM" target="_blank">+316 841 533 47</a>**
 
-**Or Mail: <a href="mailto:vvv.giize@gmail.com" target="_blank">vvv.giize@gmail.com</a>**
+**Or Mail <a href="mailto:vvv.giize@gmail.com" target="_blank">vvv.giize@gmail.com</a>**
 
 ## Music
-**Pulic Enemy: stunned but not defeated**
+**Pulic Enemy - stunned but not defeated**
 	
 <audio src="/Public-Enemy.mp3" controls ></audio>
 
-**Kai Adam: present of passed future**
+**Kai Adam - present of passed future**
 	
 <audio controls src="/future2.mp3" ></audio>
 
