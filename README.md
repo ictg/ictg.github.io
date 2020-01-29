@@ -17,6 +17,7 @@ img {
 
 **Kai Adam - CEO @ vvv.giize.com & ictg**
 
+## Contact ►
 **Tab to Call <a href="tel:+31684153347">+316 841 533 47</a>**
 
 **WhatsApp <a href="https://wa.me/31684153347?text=VVV.GIIZE.COM" target="_blank">+316 841 533 47</a>**
