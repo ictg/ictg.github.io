@@ -4,30 +4,6 @@
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
 <link rel="manifest" href="/site.webmanifest">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-.collapsible {
-  background-color: #777;
-  color: white;
-  cursor: pointer;
-  padding: 18px;
-  width: 100%;
-  border: none;
-  text-align: left;
-  outline: none;
-  font-size: 15px;
-}
-
-.active, .collapsible:hover {
-  background-color: #555;
-}
-
-.content {
-  padding: 0 18px;
-  display: none;
-  overflow: hidden;
-  background-color: #f1f1f1;
-}
-</style>
 </head>
 ## **ictg**
 **information and communications technology group**
@@ -68,50 +44,3 @@
 <strong><a href="https://wt.social/wt/ictg" target="_blank">wt.social/wt/ictg</a></strong>
 
 Copyright © 2019 ictg
-
-<button type="button" class="collapsible">About</button>
-<div class="content">
-## **Domains**
-
-**<a href="http://vvv.giize.com" target="_blank">VVV.GIIZE.COM</a> & <a href="http://ictg.github.io" target="_blank">ICTG.GITHUB.IO</a>**
-
-## **Why we use a GitHub Page?**
-**Just to ment one reason:** <strong><a href="https://developers.google.com/speed/pagespeed/insights/?hl=de&url=https%3A%2F%2Fictg.github.io%2F&tab=desktop" target="_blank">PageSpeed</a></strong>
-</div>
-
-<button type="button" class="collapsible">Find Us</button>
-<div class="content">
-## **Find Us**
-<strong><a href="https://minds.com/ictg" target="_blank">minds.com/ictg</a></strong>
-
-<strong><a href="https://medium.com/@ictg" target="_blank">medium.com/@ictg</a></strong>
-
-<strong><a href="https://github.com/ictg" target="_blank">github.com/ictg</a></strong>
-
-<strong><a href="https://www.instagram.com/ictg.git/" target="_blank">instagram.com/ictg.git</a></strong>
-
-<strong><a href="https://twitter.com/ictg_git" target="_blank">twitter.com/ictggit</a></strong>
-
-<strong><a href="https://www.youtube.com/channel/UCKuXZEEBLOb7ZPamwVYj_6A" target="_blank">youtube.com/ictg</a></strong>
-
-<strong><a href="https://pinterest.com/ictggit" target="_blank">pinterest.com/ictggit</a></strong>
-
-<strong><a href="https://wt.social/wt/ictg" target="_blank">wt.social/wt/ictg</a></strong>
-</div>
-
-<script>
-var coll = document.getElementsByClassName("collapsible");
-var i;
-
-for (i = 0; i < coll.length; i++) {
-  coll[i].addEventListener("click", function() {
-    this.classList.toggle("active");
-    var content = this.nextElementSibling;
-    if (content.style.display === "block") {
-      content.style.display = "none";
-    } else {
-      content.style.display = "block";
-    }
-  });
-}
-</script>
