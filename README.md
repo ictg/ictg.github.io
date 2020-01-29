@@ -5,7 +5,7 @@
 <link rel="manifest" href="/site.webmanifest">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
-# <a href="http://vvv.giize.com" >vvv.giize.com/</a>
+# <a href="http://vvv.giize.com" >vvv.giize.com</a>
 
 ## **ictg**
 **information and communications technology group**
