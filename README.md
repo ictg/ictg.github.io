@@ -12,19 +12,19 @@ img {
 </style>
 </head>
 # <a href="http://vvv.giize.com" >vvv.giize.com</a>
-## as simple as possible►
+## as simple as possible
 <img src="https://ictg.github.io/ictg-i.jpg" alt="Avatar">
 
 **Kai Adam - CEO @ vvv.giize.com & ictg**
 
-## Contact►
+## Contact
 **Tab to Call <a href="tel:+31684153347">+316 841 533 47</a>**
 
 **WhatsApp <a href="https://wa.me/31684153347?text=VVV.GIIZE.COM" target="_blank">+316 841 533 47</a>**
 
 **Or Mail <a href="mailto:vvv.giize@gmail.com" target="_blank">vvv.giize@gmail.com</a>**
 
-## Music►
+## Music
 **Pulic Enemy - stunned but not defeated**
 	
 <audio src="/Public-Enemy.mp3" controls ></audio>
@@ -35,10 +35,10 @@ img {
 
 Downloads For Free !!!!
 
-## Why we use GitHub►
+## Why we use GitHub
 **Just to ment one reason - <a href="https://developers.google.com/speed/pagespeed/insights/?hl=de&url=https%3A%2F%2Fictg.github.io%2F&tab=desktop" target="_blank">PageSpeed</a>!**
 
-## ictg►
+## ictg
 
 **information and communications technology group**
 
