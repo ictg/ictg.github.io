@@ -7,13 +7,12 @@
 </head>
 # <a href="http://vvv.giize.com" >vvv.giize.com</a>
 
-## **ictg**
-**information and communications technology group**
-
 ## **Contact**
 <img src="https://ictg.github.io/ictg-i.jpg" >
 
 **Eric Lee - Developer Relations @ ictg**
+
+**information and communications technology group**
 
 **Tab to Call: <a href="tel:+31684153347">+316 841 533 47</a>**
 
