@@ -23,7 +23,7 @@ img {
 
 **Or Mail <a href="mailto:vvv.giize@gmail.com" target="_blank">vvv.giize@gmail.com</a>**
 
-## Music
+## Music ►
 **Pulic Enemy - stunned but not defeated**
 	
 <audio src="/Public-Enemy.mp3" controls ></audio>
@@ -34,10 +34,10 @@ img {
 
 Downloads For Free !!!!
 
-## **Why we use GitHub**
+## Why we use GitHub ►
 **Just to ment one reason - <a href="https://developers.google.com/speed/pagespeed/insights/?hl=de&url=https%3A%2F%2Fictg.github.io%2F&tab=desktop" target="_blank">PageSpeed</a>!**
 
-## ictg
+## ictg ►
 
 **information and communications technology group**
 
