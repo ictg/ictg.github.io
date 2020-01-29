@@ -28,13 +28,12 @@ img {
 <audio src="/Public-Enemy.mp3" controls ></audio>
 
 Download is For Free !!!!
-
-## W3C
-**Member of W3C - The World Wide Web Consortium**
-
 ## Google Developer
 **Our <a href="https://developers.google.com/speed/pagespeed/insights/?hl=de&url=https%3A%2F%2Fictg.github.io%2F&tab=desktop" target="_blank">PageSpeed Insights
 </a>**
+
+## W3C
+**Member of The World Wide Web Consortium**
 
 ## Usability
 **asap - as simple as possible**
