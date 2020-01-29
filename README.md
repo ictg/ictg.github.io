@@ -34,4 +34,4 @@
 ## **Why we use a GitHub Page?**
 **Just to ment one reason:** <strong><a href="https://developers.google.com/speed/pagespeed/insights/?hl=de&url=https%3A%2F%2Fictg.github.io%2F&tab=desktop" target="_blank">PageSpeed</a></strong>
 
-Copyright © 2019 vvv.giize.com
+Copyright © 2020 vvv.giize.com
