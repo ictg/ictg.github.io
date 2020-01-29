@@ -24,11 +24,11 @@ img {
 **Or Mail: <a href="mailto:vvv.giize@gmail.com" target="_blank">vvv.giize@gmail.com</a>**
 
 ## Music
-**Pulic Enemy: "stunned but not defeated"**
+**Pulic Enemy: stunned but not defeated**
 	
 <audio src="/Public-Enemy.mp3" controls ></audio>
 
-**Kai Adam: "present of passed future"**
+**Kai Adam: present of passed future**
 	
 <audio controls src="/future2.mp3" ></audio>
 
@@ -36,5 +36,9 @@ Downloads For Free !!!!
 
 ## **Why we use GitHub**
 **Just to ment one reason:** <strong><a href="https://developers.google.com/speed/pagespeed/insights/?hl=de&url=https%3A%2F%2Fictg.github.io%2F&tab=desktop" target="_blank">PageSpeed</a></strong>
+
+A project of ictg
+
+information and communications technology group
 
 Copyright © 2020 vvv.giize.com
