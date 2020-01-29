@@ -53,4 +53,4 @@
 
 <strong><a href="https://wt.social/wt/ictg" target="_blank">wt.social/wt/ictg</a></strong>
 
-Copyright © 2019 ictg
+Copyright © 2019 vvv.giize.com
