@@ -39,6 +39,6 @@ Downloads For Free !!!!
 
 ## ictg
 
-**information and communications technology group*
+**information and communications technology group**
 
 Copyright © 2020 vvv.giize.com
