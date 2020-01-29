@@ -33,7 +33,7 @@ img {
 
 Downloads For Free !!!!
 
-## Usebility
+## Usability
 **asap - as simple as possible**
 
 **An Albert Einstein inspiration**
