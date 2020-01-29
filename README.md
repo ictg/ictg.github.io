@@ -1,4 +1,6 @@
+<HTML>
 <head>
+<TITLE>vvv.giize.com</TITLE>
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
@@ -35,3 +37,4 @@
 **Just to ment one reason:** <strong><a href="https://developers.google.com/speed/pagespeed/insights/?hl=de&url=https%3A%2F%2Fictg.github.io%2F&tab=desktop" target="_blank">PageSpeed</a></strong>
 
 Copyright © 2020 vvv.giize.com
+</HTML>
