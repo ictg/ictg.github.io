@@ -19,6 +19,14 @@
 
 **Or Mail: <a href="mailto:ictg.git@gmail.com" target="_blank">ictg.git@gmail.com</a>**
 
+## Music
+**<p><b>Welcome to ictg:</b>**
+	<audio src="/Public-Enemy.mp3" controls ></audio>
+</p>
+**<p><b>Future 2:</b>**
+	<audio controls src="/future2.mp3" ></audio>
+</p>
+
 ## **Domains**
 
 **<a href="http://vvv.giize.com" target="_blank">VVV.GIIZE.COM</a> & <a href="http://ictg.github.io" target="_blank">ICTG.GITHUB.IO</a>**
