@@ -7,12 +7,11 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 # <a href="http://vvv.giize.com" >vvv.giize.com</a>
-
-## **ictg & vvv.giize.com**
 <img src="https://ictg.github.io/ictg-i.jpg" >
 
 **Eric Lee - CEO @ ictg & vvv.giize.com**
 
+## Contact
 **Tab to Call: <a href="tel:+31684153347">+316 841 533 47</a>**
 
 **WhatsApp: <a href="https://wa.me/31684153347?text=VVV.GIIZE.COM" target="_blank">+316 841 533 47</a>**
