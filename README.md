@@ -15,7 +15,7 @@ img {
 ## Contact
 <img src="https://ictg.github.io/ictg-i.jpg" alt="Avatar">
 
-**Eric Lee - CEO @ ictg & vvv.giize.com**
+**Eric Lee - CEO @ vvv.giize.com & ictg**
 
 **Tab to Call: <a href="tel:+31684153347">+316 841 533 47</a>**
 
@@ -34,9 +34,7 @@ img {
 
 ## **Domains**
 
-**<a href="http://ictg.github.io" target="_blank">ICTG.GITHUB.IO</a> & <a href="http://vvv.giize.com" target="_blank">VVV.GIIZE.COM</a>**
-
-## **Why we use a GitHub Page?**
+## **Why we use GitHub**
 **Just to ment one reason:** <strong><a href="https://developers.google.com/speed/pagespeed/insights/?hl=de&url=https%3A%2F%2Fictg.github.io%2F&tab=desktop" target="_blank">PageSpeed</a></strong>
 
 Copyright © 2020 vvv.giize.com
