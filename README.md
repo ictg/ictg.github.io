@@ -23,7 +23,7 @@ img {
 **Or Mail <a href="mailto:vvv.giize@gmail.com" target="_blank">vvv.giize@gmail.com</a>**
 
 ## Music
-**Pulic Enemy - stunned but not defeated**
+**Kai Adam - Adam**
 	
 <audio src="/Adam.mp3" controls ></audio>
 
