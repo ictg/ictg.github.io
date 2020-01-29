@@ -34,7 +34,9 @@ img {
 Downloads For Free !!!!
 
 ## Page Speed
-**Google Developers <a href="https://developers.google.com/speed/pagespeed/insights/?hl=de&url=https%3A%2F%2Fictg.github.io%2F&tab=desktop" target="_blank">PageSpeed Insights
+**Google Developers**
+
+**<a href="https://developers.google.com/speed/pagespeed/insights/?hl=de&url=https%3A%2F%2Fictg.github.io%2F&tab=desktop" target="_blank">PageSpeed Insights
 </a>**
 
 ## Usability
@@ -46,4 +48,4 @@ Downloads For Free !!!!
 
 **information and communications technology group**
 
-Copyright © 2019-2020 vvv.giize.com
+Copyright © 2019 - 2020 vvv.giize.com
