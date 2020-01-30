@@ -26,7 +26,7 @@ img {
 	
 <audio src="/Adam.mp3" controls ></audio>
 
-Download is For Free !!!!
+Free Download
 
 ## Project
 **E = mc²** (coming soon)
