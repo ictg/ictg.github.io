@@ -34,9 +34,6 @@ Download is For Free !!!!
 ## WordPress Developer
 **Open Source <a href="https://vvv.wpdevcloud.com" target="_blank">vvv.wpdevcloud.com</a>**
 
-## W3C
-**Member of The World Wide Web Consortium**
-
 ## Usability
 **asap - as simple as possible**
 
