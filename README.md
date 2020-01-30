@@ -11,6 +11,7 @@ img {
 </style>
 </head>
 # <a href="http://vvv.giize.com" >vvv.giize.com</a>
+**How can we help You?**
 <img src="https://ictg.github.io/ictg-i.jpg" alt="Avatar">
 
 **Eric Lee - CEO @ vvv.giize.com, asap & ictg**
@@ -38,11 +39,6 @@ Download is For Free !!!!
 **Freedom to build, change & share**
 
 **<a href="https://vvv.wpdevcloud.com" target="_blank">vvv.wpdevcloud.com</a>**
-
-## GitHub Developer
-**Learn, share & work together**
-
-**to build software <a href="https://github.com/ictg" target="_blank">ictg @ GitHub</a>**
 
 ## W3C Member
 **The World Wide Web Consortium**
