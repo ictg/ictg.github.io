@@ -18,7 +18,7 @@ img {
 ## How can we help You?
 
 ## Contact
-**Tab to Call <a href="tel:+31684153347">+316 841 533 47</a>**
+**Tab to Call <font size="5"><a href="tel:+31684153347">+316 841 533 47</a></font>**
 
 **WhatsApp <a href="https://wa.me/31684153347?text=VVV.GIIZE.COM" target="_blank">+316 841 533 47</a>**
 
