@@ -63,6 +63,6 @@ Download is For Free !!!!
 
 ## Founder of ictg
 
-**information and communications technology group**
+information and communications technology group
 
 Copyright © 2019 - 2020 vvv.giize.com
