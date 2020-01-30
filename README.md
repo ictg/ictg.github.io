@@ -35,7 +35,9 @@ Download is For Free !!!!
 **Open Source <a href="https://vvv.wpdevcloud.com" target="_blank">vvv.wpdevcloud.com</a>**
 
 ## W3C Member
-**Member of The World Wide Web Consortium <a href="https://www.w3.org/community/aikr/wiki/User:Ictg" target="_blank">W3C ictg Wiki</a>**
+**World Wide Web Consortium**
+
+**<a href="https://www.w3.org/community/aikr/wiki/User:Ictg" target="_blank">W3C ictg Wiki</a>**
 
 ## Usability
 **asap - as simple as possible**
