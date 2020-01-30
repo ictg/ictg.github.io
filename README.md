@@ -35,7 +35,7 @@ Download is For Free !!!!
 **<a href="https://developers.google.com/speed/pagespeed/insights/?hl=en&url=https%3A%2F%2Fictg.github.io%2F&tab=desktop" target="_blank">PageSpeed Insights</a>**
 
 ## WordPress Developer
-**Freedom to build, change, & share**
+**Freedom to build, change & share**
 
 **<a href="https://vvv.wpdevcloud.com" target="_blank">vvv.wpdevcloud.com</a>**
 
