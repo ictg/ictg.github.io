@@ -58,7 +58,7 @@ Free Download
 
 **An Albert Einstein inspiration**
 
-## Founder of ictg
+## ictg
 
 **information and communications**
 
