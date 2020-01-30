@@ -10,7 +10,7 @@ img {
 }
 </style>
 </head>
-# <a href="http://vvv.giize.com" >vvv.giize.com</a>
+# <a href="http://vvv.giize.com" >vvv.giize-title.com</a>
 <img src="https://ictg.github.io/vvv.giize.png" >
 
 ## How can we help You?
