@@ -46,12 +46,12 @@ Download is For Free !!!!
 
 **<a href="https://www.w3.org/community/aikr/wiki/User:Ictg" target="_blank">W3C ictg Wiki</a>**
 
-## Usability
-**asap - as simple as possible**
+## Usability Expert
+**ASAP™ - As Simple As Possible**
 
 **An Albert Einstein inspiration**
 
-## ictg
+## Founder of ictg
 
 **information and communications technology group**
 
