@@ -30,7 +30,7 @@ img {
 Download is For Free !!!!
 
 ## Google Developer
-**To be Very Fast <a href="https://developers.google.com/speed/pagespeed/insights/?hl=de&url=https%3A%2F%2Fictg.github.io%2F&tab=desktop" target="_blank">PageSpeed Insights</a>**
+**How to be Very Fast <a href="https://developers.google.com/speed/pagespeed/insights/?hl=de&url=https%3A%2F%2Fictg.github.io%2F&tab=desktop" target="_blank">PageSpeed Insights</a>**
 
 ## WordPress Developer
 **Freedom to build, change, & share**
