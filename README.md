@@ -11,7 +11,6 @@ img {
 </style>
 </head>
 # <a href="http://vvv.giize.com" >vvv.giize.com</a>
-<img src="https://ictg.github.io/vvv.giize-title.png" >
 
 ## How can we help You?
 
