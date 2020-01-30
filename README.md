@@ -40,7 +40,9 @@ Download is For Free !!!!
 **<a href="https://vvv.wpdevcloud.com" target="_blank">vvv.wpdevcloud.com</a>**
 
 ## GitHub Developer
-**Learn, share & work together to build software <a href="https://github.com/ictg" target="_blank">github.com/ictg</a>**
+**Learn, share & work together**
+
+**to build software <a href="https://github.com/ictg" target="_blank">ictg @ GitHub</a>**
 
 ## W3C Member
 **The World Wide Web Consortium**
