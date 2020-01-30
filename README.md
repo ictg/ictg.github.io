@@ -55,7 +55,7 @@ Free Download
 
 ## asap™
 
-<strong><font size="4">as_simple_as_possible</font></strong>
+<strong><font size="5">as_simple_as_possible</font></strong>
 
 **An Albert Einstein inspiration**
 
