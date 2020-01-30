@@ -28,14 +28,17 @@ img {
 <audio src="/Adam.mp3" controls ></audio>
 
 Download is For Free !!!!
+
 ## Google Developer
 **To be Very Fast <a href="https://developers.google.com/speed/pagespeed/insights/?hl=de&url=https%3A%2F%2Fictg.github.io%2F&tab=desktop" target="_blank">PageSpeed Insights</a>**
 
 ## WordPress Developer
-**Open Source <a href="https://vvv.wpdevcloud.com" target="_blank">vvv.wpdevcloud.com</a>**
+**Freedom to build, change, & share**
+
+**<a href="https://vvv.wpdevcloud.com" target="_blank">vvv.wpdevcloud.com</a>**
 
 ## W3C Member
-**World Wide Web Consortium**
+**The World Wide Web Consortium**
 
 **<a href="https://www.w3.org/community/aikr/wiki/User:Ictg" target="_blank">W3C ictg Wiki</a>**
 
