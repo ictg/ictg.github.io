@@ -18,11 +18,11 @@ img {
 ## How can we help You?
 
 ## Contact
-**Tab to Call <font size="5"><a href="tel:+31684153347">+316 841 533 47</a></font>**
+<font size="5">Tab to <a href="tel:+31684153347">Call</a></font>
 
-**WhatsApp <a href="https://wa.me/31684153347?text=VVV.GIIZE.COM" target="_blank">+316 841 533 47</a>**
+<font size="5">To <a href="https://wa.me/31684153347?text=VVV.GIIZE.COM" target="_blank">WhatsApp</a>**
 
-**Or Mail <a href="mailto:vvv.giize@gmail.com" target="_blank">vvv.giize@gmail.com</a>**
+<font size="5">Or to <a href="mailto:vvv.giize@gmail.com" target="_blank">Mail</a>**
 
 ## Music
 **Eric Lee - Adam**
