@@ -4,14 +4,8 @@
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
 <link rel="manifest" href="/site.webmanifest">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-img {
-  border-radius: 50%;
-}
-</style>
 </head>
 # <a href="http://vvv.giize.com" >vvv.giize.com</a>
-
 <img src="https://ictg.github.io/vvv.giize-title.png" >
 
 ## How can we help You?
