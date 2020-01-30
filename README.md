@@ -18,9 +18,7 @@ img {
 ## How can we help You?
 
 ## Contact
-<p><strong><font size="5">Tab to <a href="tel:+31684153347">Call</a> Us</font></strong></p>
-<p><strong><font size="5">To <a href="https://wa.me/31684153347?text=VVV.GIIZE.COM" target="_blank">WhatsApp</a> Us</font></strong></p>
-<p><strong><font size="5">Or to <a href="mailto:vvv.giize@gmail.com" target="_blank">Mail</a> Us</font></strong></p>
+<p><strong><font size="5">Tab to <a href="tel:+31684153347">Call</a></font></strong> <strong><font size="5"><a href="https://wa.me/31684153347?text=VVV.GIIZE.COM" target="_blank">WhatsApp</a></font></strong> <strong><font size="5">Or <a href="mailto:vvv.giize@gmail.com" target="_blank">Mail</a> Us</font></strong></p>
 
 ## Music
 **Eric Lee - Adam**
