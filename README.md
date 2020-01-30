@@ -54,7 +54,7 @@ Download is For Free !!!!
 **<a href="https://www.w3.org/community/aikr/wiki/User:Ictg" target="_blank">W3C ictg Wiki</a>**
 
 ## Usability Expert
-**asap™ - as simple as possible**
+**asap™ - as_simple_as_possible**
 
 **An Albert Einstein inspiration**
 
