@@ -14,7 +14,7 @@ img {
 
 ### Home
 
-<img src="https://ictg.github.io/ictg-i.jpg" alt="Avatar">
+<img src="https://ictg.github.io/ictg-i.jpg" alt="Avatar" width="300" height="300">
 
 **Eric Lee - CEO @ vvv.giize.com, asap & ictg**
 
