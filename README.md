@@ -26,9 +26,7 @@ img {
 	
 <audio src="/Adam.mp3" controls ></audio>
 
-Free Download <a href="https://github.com/Music" target="_blank">More Music</a>
-
-
+Free Download **<a href="https://github.com/Music" target="_blank">More Music</a>**
 
 ## Project
 **E = mc²** (coming soon)
