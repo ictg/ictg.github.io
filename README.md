@@ -59,6 +59,6 @@ Free Download, Share & Adapt
 **technology group**
 
 ## Contact
-<strong><font size="6"><a href="tel:+31684153347">Call</a></font></strong> &nbsp;&nbsp; <strong><font size="6"> <a href="https://wa.me/31684153347?text=VVV.GIIZE.COM" target="_blank">WhatsApp</a></font></strong> &nbsp;&nbsp; <strong><font size="6"><a href="mailto:vvv.giize@gmail.com" target="_blank">Mail</a></font></strong>
+<strong><font size="5"><a href="tel:+31684153347">Call</a></font></strong> &nbsp;&nbsp; <strong><font size="5"> <a href="https://wa.me/31684153347?text=VVV.GIIZE.COM" target="_blank">WhatsApp</a></font></strong> &nbsp;&nbsp; <strong><font size="5"><a href="mailto:vvv.giize@gmail.com" target="_blank">Mail</a></font></strong>
 
 Copyright © 2019 - 2020 vvv.giize.com
