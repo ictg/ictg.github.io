@@ -26,7 +26,7 @@ img {
 	
 <audio src="/Adam.mp3" controls ></audio>
 
-Free Download **<a href="https://ictg.github.io/music" >More Music</a>**
+Free Download **<font size="4"><a href="https://ictg.github.io/music" >More Music</a></font>**
 
 ## Project
 **E = mc²** (coming soon)
