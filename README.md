@@ -29,15 +29,15 @@ img {
 
 **<a href="https://vvv.wpdevcloud.com" target="_blank">vvv.wpdevcloud.com</a>**
 
-### GitHub Developer
-**Learn, share & work together**
-
-**to build software <a href="https://github.com/ictg" target="_blank">GitHub repository</a>**
-
 ### Google Developer
 **You have to be Very Fast**
 
 **<a href="https://developers.google.com/speed/pagespeed/insights/?hl=en&url=https%3A%2F%2Fictg.github.io%2F&tab=desktop" target="_blank">PageSpeed Insights</a>**
+
+### GitHub Developer
+**Learn, share & work together**
+
+**to build software <a href="https://github.com/ictg" target="_blank">GitHub repository</a>**
 
 ### W3C Member
 **The World Wide Web Consortium**
