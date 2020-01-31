@@ -34,6 +34,14 @@ Free Download
 
 **Eric Lee - The Hague 2**
 	
-<audio src="/The-Hague-2" controls ></audio>
+<audio src="/The-Hague-2.mp3" controls ></audio>
+
+**Eric Lee - The Hague 3**
+	
+<audio src="/The-Hague-3.mp3" controls ></audio>
+
+**Eric Lee - Unknown Object**
+	
+<audio src="/Unknown-Object.mp3" controls ></audio>
 
 Copyright © 2019 - 2020 vvv.giize.com
