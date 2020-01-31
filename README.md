@@ -20,7 +20,7 @@ img {
 
 <audio src="/Adam.mp3" controls autoplay></audio>
 
-**Eric Lee - Adam**
+**Song: Adam - By: Eric Lee**
 
 **<font size="5"><a href="https://ictg.github.io/music" >More Music</a></font>**
 
