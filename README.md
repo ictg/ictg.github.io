@@ -16,7 +16,7 @@ img {
 
 <img src="https://ictg.github.io/ictg-i.jpg" alt="Avatar" width="300" height="300">
 
-**Eric Lee - vvv.giize.com, asap & ictg**
+**Eric Lee - X @ vvv.giize.com asap & ictg**
 
 <audio src="/Adam.mp3" controls autoplay></audio>
 
