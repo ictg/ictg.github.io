@@ -24,10 +24,6 @@ img {
 ## Songs
 Free Download
 
-**Eric Lee - Adam**
-	
-<audio src="/Adam.mp3" controls ></audio>
-
 **Eric Lee - The Hague 1**
 	
 <audio src="/The-Hague-1.mp3" controls ></audio>
@@ -41,7 +37,11 @@ Free Download
 <audio src="/The-Hague-3.mp3" controls ></audio>
 
 **Eric Lee - Unknown Object**
+
+**Eric Lee -  Diversity**
 	
-<audio src="/Unknown-Object.mp3" controls ></audio>
+<audio src="/Adam.mp3" controls ></audio>
+	
+<audio src="/Diversity.mp3" controls ></audio>
 
 Copyright © 2019 - 2020 vvv.giize.com
