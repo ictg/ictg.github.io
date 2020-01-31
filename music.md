@@ -15,7 +15,7 @@ img {
 ## <a href="https://ictg.github.io" >Home</a> > Music
 
 ### Songs
-Free Downloads
+Free Download, Share & Adapt
 
 **Eric Lee - The Hague 1**
 	
