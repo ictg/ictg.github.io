@@ -18,7 +18,7 @@ img {
 
 **Eric Lee - CEO @ vvv.giize.com, asap & ictg**
 
-### Music <audio src="/Adam.mp3" controls autoplay></audio>
+<audio src="/Adam.mp3" controls autoplay></audio>
 
 **Eric Lee - Adam**
 
