@@ -14,13 +14,6 @@ img {
 
 ## <a href="https://ictg.github.io" >Home</a> > Music
 
-<img src="https://ictg.github.io/ictg-i.jpg" alt="Avatar">
-
-**Eric Lee - CEO @ vvv.giize.com, asap & ictg**
-
-## Contact
-<strong><font size="6"><a href="tel:+31684153347">Call</a></font></strong> &nbsp;&nbsp; <strong><font size="6"> <a href="https://wa.me/31684153347?text=VVV.GIIZE.COM" target="_blank">WhatsApp</a></font></strong> &nbsp;&nbsp; <strong><font size="6"><a href="mailto:vvv.giize@gmail.com" target="_blank">Mail</a></font></strong>
-
 ## Songs
 Free Download
 
@@ -43,5 +36,8 @@ Free Download
 **Eric Lee -  Diversity**
 	
 <audio src="/Diversity.mp3" controls ></audio>
+
+## Contact
+<strong><font size="6"><a href="tel:+31684153347">Call</a></font></strong> &nbsp;&nbsp; <strong><font size="6"> <a href="https://wa.me/31684153347?text=VVV.GIIZE.COM" target="_blank">WhatsApp</a></font></strong> &nbsp;&nbsp; <strong><font size="6"><a href="mailto:vvv.giize@gmail.com" target="_blank">Mail</a></font></strong>
 
 Copyright © 2019 - 2020 vvv.giize.com
