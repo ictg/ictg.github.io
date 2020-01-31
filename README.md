@@ -30,11 +30,6 @@ Free Download
 
 **<font size="5"><a href="https://ictg.github.io/music" >More Music</a></font>**
 
-## Project
-**E = mc²** (coming soon)
-
-**Learning by playing**
-
 ## WordPress Developer
 **Freedom to build, change & share**
 
