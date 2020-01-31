@@ -37,6 +37,14 @@ Free Download
 	
 <audio src="/Diversity.mp3" controls ></audio>
 
+**Eric Lee -  Meditation**
+	
+<audio src="/Meditation.mp3" controls ></audio>
+
+**Eric Lee -  Future**
+	
+<audio src="/Future.mp3" controls ></audio>
+
 ## Contact
 <strong><font size="6"><a href="tel:+31684153347">Call</a></font></strong> &nbsp;&nbsp; <strong><font size="6"> <a href="https://wa.me/31684153347?text=VVV.GIIZE.COM" target="_blank">WhatsApp</a></font></strong> &nbsp;&nbsp; <strong><font size="6"><a href="mailto:vvv.giize@gmail.com" target="_blank">Mail</a></font></strong>
 
