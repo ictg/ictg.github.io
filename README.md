@@ -26,7 +26,7 @@ img {
 	
 <audio src="/Adam.mp3" controls autoplay></audio>
 
-Free Download
+Free Download, Share & Adapt
 
 **<font size="5"><a href="https://ictg.github.io/music" >More Music</a></font>**
 
