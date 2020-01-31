@@ -24,7 +24,7 @@ img {
 ## Music
 **Eric Lee - Adam**
 	
-<audio src="/Adam.mp3" controls ></audio>
+<audio src="/Adam.mp3" controls autoplay></audio>
 
 Free Download
 
