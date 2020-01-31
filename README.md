@@ -22,7 +22,7 @@ img {
 
  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **Song: Adam - By: Eric Lee**
 
-**<font size="4"><a href="https://ictg.github.io/music" >More Music</a></font>**
+**<a href="https://ictg.github.io/music" >More Music</a>**
 
 ### WordPress Developer
 **Freedom to build, change & share**
