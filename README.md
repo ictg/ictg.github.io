@@ -18,11 +18,11 @@ img {
 
 **Eric Lee - CEO @ vvv.giize.com, asap & ictg**
 
+Free Download, Share & Adapt
+
 <audio src="/Adam.mp3" controls autoplay></audio>
 
 **Eric Lee - Adam**
-
-Free Download, Share & Adapt
 
 **<font size="5"><a href="https://ictg.github.io/music" >More Music</a></font>**
 
