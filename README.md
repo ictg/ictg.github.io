@@ -20,9 +20,7 @@ img {
 
 <audio src="/Adam.mp3" controls autoplay></audio>
 
- &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **Song: Adam - By: Eric Lee**
-
-**<a href="https://ictg.github.io/music" >More Music</a>**
+** &nbsp; &nbsp; &nbsp; Song: Adam - By: Eric Lee &nbsp; &nbsp; &nbsp; <a href="https://ictg.github.io/music" >More Music</a>**
 
 ### WordPress Developer
 **Freedom to build, change & share**
