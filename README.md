@@ -12,7 +12,7 @@ img {
 </head>
 # <a href="http://vvv.giize.com" >vvv.giize.com</a>
 
-## How can we help You?
+## Home
 
 <img src="https://ictg.github.io/ictg-i.jpg" alt="Avatar">
 
