@@ -33,7 +33,7 @@ img {
 **<a href="https://developers.google.com/speed/pagespeed/insights/?hl=en&url=https%3A%2F%2Fictg.github.io%2F&tab=desktop" target="_blank">PageSpeed Insights</a>**
 
 ### GitHub Developer
-**Learn share & work to build software**
+**Learn share & work together 2 build software**
 
 **<a href="https://github.com/ictg" target="_blank">GitHub repository</a>**
 
