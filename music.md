@@ -1,9 +1,3 @@
-<html>
-    <head>
-        <title>ictg.github.io Music</title>
-    </head>
-</html>
-
 <head>
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
@@ -17,7 +11,7 @@ img {
 }
 </style>
 </head>
-# Music
+## Music
 
 ### <a href="https://ictg.github.io" >Home</a> > Music
 
