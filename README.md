@@ -10,7 +10,7 @@ img {
 }
 </style>
 </head>
-### Home
+# ictg
 
 <img src="https://ictg.github.io/ictg-i.jpg" alt="Avatar" width="300" height="300">
 
