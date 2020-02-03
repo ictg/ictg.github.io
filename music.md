@@ -4,6 +4,20 @@
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
 <link rel="manifest" href="/site.webmanifest">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+$(function() {
+	// Get page title
+  	var pageTitle = $("title").text();
+
+	// Change page title on blur
+	$(window).blur(function() {
+	  $("title").text(ictg.github.io - Music");
+	});
+
+	// Change page title back on focus
+	$(window).focus(function() {
+	  $("title").text(pageTitle);
+	});
+});
 <style>
 img {
   border-radius: 50%;
