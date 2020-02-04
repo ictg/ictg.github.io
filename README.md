@@ -55,6 +55,4 @@ img {
 ## Contact
 <strong><font size="5"><a href="tel:+31684153347">Call</a></font></strong> &nbsp;&nbsp; <strong><font size="5"> <a href="https://wa.me/31684153347?text=ictg" target="_blank">WhatsApp</a></font></strong> &nbsp;&nbsp; <strong><font size="5"><a href="mailto:	ictg.git@gmail.com" target="_blank">Mail</a></font></strong> &nbsp;&nbsp; <strong><font size="5"><a href="https://www.google.com/maps/place/ictg/@52.4983187,13.435691,15z/data=!4m5!3m4!1s0x0:0x8c580381586550dd!8m2!3d52.4983187!4d13.435691" target="_blank">Find</a></font></strong>
 
-<div id="sslcontactholder" style="clear:both;"><a href="https://adressmonster.de" style="text-decoration:none"> </a></div> <script charset="utf-8" async src="https://extern.ssl-contact.de/ujs/11749Z4i2QuxnDEA5Ts8NKDWCESBGfocmXq/sslcontactscript.js"></script>
-
 Copyright © 2019 - 2020 ictg
