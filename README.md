@@ -10,7 +10,7 @@ img {
 }
 </style>
 </head>
-# ictg
+## ictg
 **information and communications**
 
 **technology group**
@@ -35,6 +35,12 @@ img {
 
 **<a href="https://www.w3.org/community/aikr/wiki/User:Ictg" target="_blank">W3C ictg Wiki</a>**
 
+### asap™
+
+<strong><font size="5">as simple as possible</font></strong>
+
+**An Albert Einstein inspiration**
+
 <img src="https://ictg.github.io/ictg-i.jpg" alt="Avatar" width="300" height="300">
 
 **Eric Lee - Founder & CEO of ictg**
@@ -42,12 +48,6 @@ img {
 <audio src="/Adam.mp3" controls autoplay></audio>
 
 **&nbsp;&nbsp;Song: Adam - By: Eric Lee &nbsp;&nbsp;<a href="https://ictg.github.io/music" >More Music</a>**
-
-### asap™
-
-<strong><font size="5">as simple as possible</font></strong>
-
-**An Albert Einstein inspiration**
 
 ## Contact
 <strong><font size="5"><a href="tel:+31684153347">Call</a></font></strong> &nbsp;&nbsp; <strong><font size="5"> <a href="https://wa.me/31684153347?text=ictg" target="_blank">WhatsApp</a></font></strong> &nbsp;&nbsp; <strong><font size="5"><a href="mailto:	ictg.git@gmail.com" target="_blank">Mail</a></font></strong> &nbsp;&nbsp; <strong><font size="5"><a href="https://www.google.com/maps/place/ictg/@52.4983187,13.435691,15z/data=!4m5!3m4!1s0x0:0x8c580381586550dd!8m2!3d52.4983187!4d13.435691" target="_blank">Find</a></font></strong>
