@@ -59,6 +59,8 @@ img {
 
 <strong><a href="https://github.com/ictg" target="_blank">github.com/ictg</a></strong>
 
+<strong><a href="https://facebook.com/ictg.git" target="_blank">facebook.com/ictg.git</a></strong>
+
 <strong><a href="https://instagram.com/ictg.git/" target="_blank">instagram.com/ictg.git</a></strong>
 
 <strong><a href="https://twitter.com/ictg_git" target="_blank">twitter.com/ictggit</a></strong>
@@ -68,7 +70,5 @@ img {
 <strong><a href="https://pinterest.com/ictggit" target="_blank">pinterest.com/ictggit</a></strong>
 
 <strong><a href="https://wt.social/wt/ictg" target="_blank">wt.social/wt/ictg</a></strong>
-
-<strong><a href="https://facebook.com/ictg.git" target="_blank">facebook.com/ictg.git</a></strong>
 
 Copyright © 2019 - 2020 ictg
