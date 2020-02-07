@@ -11,12 +11,14 @@ img {
 }
 </style>
 </head>
-# Music
-
 ### <a href="https://ictg.github.io" >Home</a> > Music
 
 ### Songs By Eric Lee
 Free Download, Share & Adapt
+
+**Adam**
+
+<audio src="/Adam.mp3" controls autoplay></audio>
 
 **The Hague 1**
 	
