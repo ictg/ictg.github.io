@@ -47,7 +47,7 @@ Free Download, Share & Adapt
 <audio src="/Future.mp3" controls ></audio>
 
 ## Contact
-<strong><font size="5"><a href="tel:+31684153347">Call</a></font></strong> &nbsp;&nbsp; <strong><font size="5"> <a href="https://wa.me/31684153347?text=ictg" target="_blank">WhatsApp</a></font></strong> &nbsp;&nbsp; <strong><font size="5"><a href="mailto:ictg.git@gmail.com" target="_blank">Mail</a></font></strong> &nbsp;&nbsp; <strong><font size="5"><a href="https://www.google.com/maps/place/ictg/@52.4983187,13.435691,15z/data=!4m5!3m4!1s0x0:0x8c580381586550dd!8m2!3d52.4983187!4d13.435691" target="_blank">Find</a></font></strong>
+<strong><font size="5"><a href="tel:+31684153347">Call</a></font></strong> &nbsp;&nbsp; <strong><font size="5"> <a href="https://wa.me/31684153347?text=ictg" target="_blank">WhatsApp</a></font></strong> &nbsp;&nbsp; <strong><font size="5"><a href="mailto:ictg.git@gmail.com" target="_blank">Mail</a></font></strong> &nbsp;&nbsp; <strong><font size="5"><a href="https://www.google.com/maps/place/ictg/@52.4983187,13.435691,15z/data=!4m5!3m4!1s0x0:0x8c580381586550dd!8m2!3d52.4983187!4d13.435691" target="_blank">G-Maps</a></font></strong>
 
 ## **Find Us**
 <strong><a href="https://minds.com/ictg" target="_blank">Minds</a></strong>&nbsp;&nbsp;<strong><a href="https://medium.com/@ictg" target="_blank">Medium</a></strong>&nbsp;&nbsp;<strong><a href="https://github.com/ictg" target="_blank">GithHub</a></strong>
