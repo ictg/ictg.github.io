@@ -44,7 +44,6 @@ img {
 **An Albert Einstein inspiration**
 
 <img src="https://ictg.github.io/ictg-i.jpg" alt="Avatar" width="300" height="300">
-
 **Eric Lee - Founder & CEO of ictg**
 
 ## Contact
