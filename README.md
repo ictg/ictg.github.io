@@ -37,9 +37,11 @@ img {
 
 **<a href="https://www.w3.org/community/aikr/wiki/User:Ictg" target="_blank">W3C ictg Wiki</a>**
 
-<img src="https://ictg.github.io/ictg-i.jpg" alt="Avatar" width="300" height="300">
+<img src="https://ictg.github.io/ictg-i.jpg" alt="ictg" width="300" height="300">
 
 **Eric Lee - Founder & CEO of ictg**
+
+<a href="https://ictg.github.io/ictg-i.jpg" target="_blank><img class="enlargeSpin" px src="https://ictg.github.io/ictg-i.jpg"></a>
 
 ### asap™ as simple as possible
 
