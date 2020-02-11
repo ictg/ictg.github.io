@@ -44,9 +44,9 @@ img {
 ### asap™ as simple as possible
 
 ## Contact
-<strong><font size="5"><a href="tel:+31684153347">Call</a></font></strong> &nbsp;&nbsp; <strong><font size="5"> <a href="https://wa.me/31684153347?text=ictg" target="_blank">WhatsApp</a></font></strong> &nbsp;&nbsp; <strong><font size="5"><a href="mailto:	ictg.git@gmail.com" target="_blank">Mail</a></font></strong> &nbsp;&nbsp; <strong><font size="5"><a href="https://www.google.com/maps/place/ictg/@52.4983187,13.435691,15z/data=!4m5!3m4!1s0x0:0x8c580381586550dd!8m2!3d52.4983187!4d13.435691" target="_blank">G-Maps</a></font></strong>
+<strong><font size="5"><a href="tel:+31684153347">Call</a></font></strong> &nbsp;&nbsp; <strong><font size="5"> <a href="https://wa.me/31684153347?text=ictg" target="_blank">WhatsApp</a></font></strong> &nbsp;&nbsp; <strong><font size="5"><a href="mailto:	ictg.git@gmail.com" target="_blank">Mail</a></font></strong> &nbsp;&nbsp; <strong><font size="5"><a href="https://www.google.com/maps/place/ictg/@52.4983187,13.435691,15z/data=!4m5!3m4!1s0x0:0x8c580381586550dd!8m2!3d52.4983187!4d13.435691" target="_blank">Maps</a></font></strong>
 
-## **Find Us**
+## **Find**
 <strong><a href="https://minds.com/ictg" target="_blank">Minds</a></strong>&nbsp;&nbsp;<strong><a href="https://medium.com/@ictg" target="_blank">Medium</a></strong>&nbsp;&nbsp;<strong><a href="https://github.com/ictg" target="_blank">GithHub</a></strong>
 
 <strong><a href="https://facebook.com/ictg.git" target="_blank">facebook</a></strong>&nbsp;&nbsp;<strong><a href="https://instagram.com/ictg.git/" target="_blank">instagram</a></strong>&nbsp;&nbsp;<strong><a href="https://twitter.com/ictg_git" target="_blank">twitter</a></strong>
