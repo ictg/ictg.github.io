@@ -41,7 +41,7 @@ img {
 
 **Eric Lee - Founder & CEO of ictg**
 
-<a href="https://ictg.github.io/ictg-i.jpg" target="_blank><img class="enlargeSpin" px src="https://ictg.github.io/ictg-i.jpg"></a>
+<img class="enlargeSpin" img src="https://ictg.github.io/ictg-i.jpg"></a>
 
 ### asap™ as simple as possible
 
