@@ -20,22 +20,22 @@ img {
 ### WordPress Developer
 **Freedom to build change & share**
 
-**<a href="https://vvv.tech.blog/" target="_blank">vvv.tech.blog</a>**
+### <a href="https://vvv.tech.blog/" target="_blank">vvv.tech.blog</a>
 
 ### Google Developer
 **You have to be Very Fast**
 
-**<a href="https://developers.google.com/speed/pagespeed/insights/?hl=en&url=https%3A%2F%2Fictg.github.io%2F&tab=desktop" target="_blank">PageSpeed Insights</a>**
+### <a href="https://developers.google.com/speed/pagespeed/insights/?hl=en&url=https%3A%2F%2Fictg.github.io%2F&tab=desktop" target="_blank">PageSpeed Insights</a>
 
 ### GitHub Developer
 **Learn share & work together 2 build software**
 
-**<a href="https://github.com/ictg" target="_blank">GitHub repository</a>**
+### <a href="https://github.com/ictg" target="_blank">GitHub repository</a>
 
 ### W3C Member
 **The World Wide Web Consortium**
 
-**<a href="https://www.w3.org/community/aikr/wiki/User:Ictg" target="_blank">W3C ictg Wiki</a>**
+### <a href="https://www.w3.org/community/aikr/wiki/User:Ictg" target="_blank">W3C ictg Wiki</a>
 
 <img src="https://ictg.github.io/ictg-i.jpg" alt="ictg" width="300" height="300">
 
