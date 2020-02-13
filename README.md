@@ -37,6 +37,7 @@ img {
 
 ### <a href="https://www.w3.org/community/aikr/wiki/User:Ictg" target="_blank">W3C ictg Wiki</a>
 
+### About
 <img src="https://ictg.github.io/ictg-i.jpg" alt="ictg" width="300" height="300">
 
 **Eric Lee - Founder & CEO of ictg**
