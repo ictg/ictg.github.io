@@ -20,7 +20,7 @@ img {
 ### WordPress Developer
 **Freedom to build change & share**
 
-**<a href="https://vvv.wpdevcloud.com" target="_blank">vvv.wpdevcloud.com</a>**
+**<a href="https://vvv.tech.blog/" target="_blank">vvv.tech.blog/</a>**
 
 ### Google Developer
 **You have to be Very Fast**
