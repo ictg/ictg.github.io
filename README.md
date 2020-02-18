@@ -17,6 +17,11 @@ img {
 
 **technology group**
 
+## Science to the people
+**Artificial intelligence**
+
+### <a href="https://ai.2ix.ch/" target="_blank">ai.2ix.ch</a>
+
 ### WordPress Developer
 **Freedom to build change & share**
 
