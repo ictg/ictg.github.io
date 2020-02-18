@@ -17,8 +17,8 @@ img {
 
 **technology group**
 
-## Science to the people
-**Artificial intelligence**
+## Artificial intelligence
+**Science to the people**
 
 ### <a href="https://ai.2ix.ch/" target="_blank">ai.2ix.ch</a>
 
