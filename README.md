@@ -59,6 +59,4 @@ img {
 
 <strong><a href="https://youtube.com/channel/UCKuXZEEBLOb7ZPamwVYj_6A" target="_blank">YouTube</a></strong>&nbsp;&nbsp;<strong><a href="https://pinterest.com/ictggit" target="_blank">Pinterest</a></strong>&nbsp;&nbsp;<strong><a href="https://wt.social/wt/ictg" target="_blank">WT Social</a></strong>
 
-<!--- DO NOT EDIT - GlobalSign SSL Site Seal Code - DO NOT EDIT ---><table width=125 border=0 cellspacing=0 cellpadding=0 title="CLICK TO VERIFY: This site uses a GlobalSign SSL Certificate to secure your personal information." ><tr><td><span id="ss_img_wrapper_gmogs_image_125-50_en_dblue"><a href="https://www.globalsign.com/" target=_blank title="GlobalSign Site Seal" rel="nofollow"><img alt="SSL" border=0 id="ss_img" src="//seal.globalsign.com/SiteSeal/images/gs_noscript_125-50_en.gif"></a></span><script type="text/javascript" src="//seal.globalsign.com/SiteSeal/gmogs_image_125-50_en_dblue.js"></script></td></tr></table><!--- DO NOT EDIT - GlobalSign SSL Site Seal Code - DO NOT EDIT --->
-
 Copyright © 2019 - 2020 ictg
