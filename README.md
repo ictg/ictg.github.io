@@ -59,6 +59,6 @@ img {
 
 <strong><a href="https://youtube.com/channel/UCKuXZEEBLOb7ZPamwVYj_6A" target="_blank">YouTube</a></strong>&nbsp;&nbsp;<strong><a href="https://pinterest.com/ictggit" target="_blank">Pinterest</a></strong>&nbsp;&nbsp;<strong><a href="https://wt.social/wt/ictg" target="_blank">WT Social</a></strong>
 
-<a rel="me" href="https://mas.to/@ictg">Mastodon</a>
+<strong><a href="https://freecodecamp.org/ictg" target="_blank">freeCodeCamp</a></strong>&nbsp;&nbsp;<a rel="me" href="https://mas.to/@ictg">Mastodon</a>
 
 Copyright © 2019 - 2020 ictg
