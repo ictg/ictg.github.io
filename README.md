@@ -18,7 +18,7 @@ body {
 }
 </style>
 </head>
-# **<a href="https://b.sly.io" >b.sly.io</a>**
+# <a href="https://b.sly.io" >b.sly.io</a>
 
 ### <a href="https://ictg.github.io" >Home</a>&nbsp;&nbsp;<a href="https://ictg.github.io/music" >Music</a>
 
