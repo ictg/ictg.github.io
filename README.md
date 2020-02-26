@@ -5,14 +5,16 @@
 <link rel="manifest" href="/site.webmanifest">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
+img {
+  border-radius: 50%;
+}
+</style>
+<style>
 body {
-  background-image: url('b.sly.io.gif');
+  background-image: url('img_girl.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed; 
   background-size: 100% 100%;
-}
-img {
-  border-radius: 50%;
 }
 </style>
 </head>
