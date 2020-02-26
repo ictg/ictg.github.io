@@ -9,6 +9,13 @@ img {
   border-radius: 50%;
 }
 </style>
+body {
+  background-image: url('b.sly.io.gif');
+  background-repeat: no-repeat;
+  background-attachment: fixed; 
+  background-size: 100% 100%;
+}
+</style>
 </head>
 ### <a href="https://ictg.github.io" >Home</a>&nbsp;&nbsp;<a href="https://ictg.github.io/music" >Music</a>
 
