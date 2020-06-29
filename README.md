@@ -25,11 +25,6 @@ body {
 
 **technology group**
 
-### Artificial intelligence
-**Science to the people**
-
-### <a href="https://ai.2ix.ch/" target="_blank">ai.2ix</a>
-
 ### WordPress Developer
 **Freedom to build change & share**
 
